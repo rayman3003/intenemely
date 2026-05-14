@@ -7,3 +7,4 @@
 - [https___oilsky_com_cn_mp3player (20260514_125619)](pages/oilsky.com.cn/https___oilsky_com_cn_mp3player/20260514_125619/index.md) — 0 media files
 - [https___www_walmart_com_ip_Oilsky_M303_MP3_Player_with_Bluetooth_and_Wifi_3_5_1080P_Full_touch_Scree (20260514_130023)](pages/walmart.com/https___www_walmart_com_ip_Oilsky_M303_MP3_Player_with_Bluetooth_and_Wifi_3_5_1080P_Full_touch_Scree/20260514_130023/index.md) — 0 media files
 - [https___www_aliexpress_com_s_wiki_ssr_article_oilsky_m303_mp3_player_products_info_and_review (20260514_130111)](pages/aliexpress.com/https___www_aliexpress_com_s_wiki_ssr_article_oilsky_m303_mp3_player_products_info_and_review/20260514_130111/index.md) — 2 media files
+- [https___oilsky_com_cn_productinfo_952661_html (20260514_130544)](pages/oilsky.com.cn/https___oilsky_com_cn_productinfo_952661_html/20260514_130544/index.md) — 0 media files
