@@ -1,6 +1,0 @@
-https://walmart.com/
-https://walmart.com/account/api/ccpa-intake?native=false&amp;type=access
-https://walmart.com/account/api/ccpa-intake?native=false&amp;type=sod
-https://walmart.com/si/snr.js
-https://corporate.walmart.com/privacy-security
-https://help.walmart.com/app/answers/detail/a_id/8
